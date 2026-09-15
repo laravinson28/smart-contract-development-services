@@ -225,3 +225,11 @@ Yes, deep internal auditing is built right into our daily workflow. Our develope
 ### Can you integrate smart contracts with our existing Web2 app?
 
 Absolutely. We regularly connect blockchain backends to traditional databases and mobile apps. Using libraries like Ethers.js, we build secure bridges that allow your current website or app to read on-chain data and talk to user wallets without needing a complete system overhaul.
+
+---
+
+## Related Projects
+
+**Prediction Market Platform Development: https://github.com/laravinson28/prediction-market-platform-development**
+
+**White Label Crypto Exchange Software: https://github.com/laravinson28/white-label-crypto-exchange-software**
